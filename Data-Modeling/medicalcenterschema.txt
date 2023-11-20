@@ -1,0 +1,8 @@
+Medical Center			
+id	doctor_id	patient_id	count(diseases)
+			
+Doctor			
+id	Name	spec	
+			
+Patient			
+id	Name	Disease	
